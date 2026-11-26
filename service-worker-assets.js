@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "mAhGkbqC",
+  "version": "t8FmONWO",
   "assets": [
     {
       "hash": "sha256-itxgC9CUXgA0s57EK2bjpHhRABlrtO8ndt+ThYI7Lus=",
@@ -214,7 +214,7 @@ self.assetsManifest = {
       "url": "apple-touch-icon.png"
     },
     {
-      "hash": "sha256-yddpqgCjfBXa6uxmYvvrbr6XmFjzA3ocOL8GbbyMrVQ=",
+      "hash": "sha256-1io6vnjOMqQEE+zFJAhoR1Tj7rFwA7To1I3AlSzhHv8=",
       "url": "appsettings.json"
     },
     {
